@@ -1,3 +1,3 @@
-# homework[^1]
+# homework
 # *for programming class*
 ##### an attempt
